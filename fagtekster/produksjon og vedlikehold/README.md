@@ -12,4 +12,6 @@ Mål for opplæringen er at eleven skal kunne
  * forklare hvordan kjemiske og fysiske forhold innvirker på en produksjonsprosess
  * kommunisere på engelsk i arbeidssituasjoner
 
->Denne teksten er hentet fra [læreplan i programfag for vg2 kjemiprosess](http://www.udir.no/kl06/KJP2-01/).
+---
+ 
+*Denne teksten er hentet fra [læreplan i programfag for vg2 kjemiprosess](http://www.udir.no/kl06/KJP2-01/).*

@@ -16,5 +16,6 @@ Mål for opplæringen er at eleven skal kunne
  * foreta støkiometriske beregninger
  * bruke norsk og engelsk fagterminologi
 
+---
  
- >Denne teksten er hentet fra [læreplan i programfag for vg2 kjemiprosess](http://www.udir.no/kl06/KJP2-01/).
+*Denne teksten er hentet fra [læreplan i programfag for vg2 kjemiprosess](http://www.udir.no/kl06/KJP2-01/).*
