@@ -11,5 +11,6 @@ Mål for opplæringen er at eleven skal kunne
  * arbeide i tråd med gjeldende regelverk for internkontroll og kvalitetssikring
  * bruke fysiske og digitale oppslagsverk i arbeidet og utføre kildekritikk
  * vurdere og beskrive egen utvikling på grunnlag av utførte arbeidsoppgaver
+
  
  >Denne teksten er hentet fra [læreplan i programfag for vg2 kjemiprosess](http://www.udir.no/kl06/KJP2-01/).

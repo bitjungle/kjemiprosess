@@ -15,5 +15,6 @@ Mål for opplæringen er at eleven skal kunne
  * beregne varme- og energibalanse i et anlegg og verifisere med forsøk
  * foreta støkiometriske beregninger
  * bruke norsk og engelsk fagterminologi
+
  
  >Denne teksten er hentet fra [læreplan i programfag for vg2 kjemiprosess](http://www.udir.no/kl06/KJP2-01/).
